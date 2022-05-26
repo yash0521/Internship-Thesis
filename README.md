@@ -1,2 +1,2 @@
 # Internship-Thesis
-Internship Thesis of the last semester of Bachelor of Computer Engineering 
+Bachelor Thesis of final year Internship 
